@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url("/public/background1.jpeg");
+  /* background-image: url("https://static.vecteezy.com/system/resources/previews/004/532/221/original/tic-tac-toe-seamless-background-on-dark-blue-illustration-vector.jpg"); */
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.App {
+  margin-top: 20px;
+}
